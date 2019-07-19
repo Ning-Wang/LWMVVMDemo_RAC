@@ -1,0 +1,6 @@
+framework module Pods_LWMVVMDeom {
+  umbrella header "Pods-LWMVVMDeom-umbrella.h"
+
+  export *
+  module * { export * }
+}

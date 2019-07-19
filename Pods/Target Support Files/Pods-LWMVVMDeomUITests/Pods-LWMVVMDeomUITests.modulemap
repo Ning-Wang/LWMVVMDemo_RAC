@@ -1,0 +1,6 @@
+framework module Pods_LWMVVMDeomUITests {
+  umbrella header "Pods-LWMVVMDeomUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
